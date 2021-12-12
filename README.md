@@ -101,6 +101,7 @@
     * **Lakka** 2015.5
 
       Retrogaming dedicated, powered by Retroarch (XMB front-end)
+
       Initially based on OpenELEC, have switched to LibreELEC
 
 
