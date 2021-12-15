@@ -2,26 +2,25 @@
 
 ***
 
-* **MCC Interim Linux** 1992.2 - 1996.4.23
-
-  Softlanding Linux System, the first Linux distribution
+* **[MCC Interim Linux](https://distroware.gitlab.io/os/Linux/m/mcc-interim)** 1992.2 - 1996.4.23
 
 
-* **SLS** 1992.6 - 1994.1
+* **[SLS](https://distroware.gitlab.io/os/Linux/s/sls)** 1992.6 - 1994.1
+
+  Softlanding Linux System, one of the first Linux distribution
+
+* **[Yggdrasil Linux/GNU/X](https://distroware.gitlab.io/os/Linux/y/yggdrasil)** 1992.12.8 - 1995.5 (last release)
 
 
-* **Yggdrasil Linux/GNU/X** 1992.12.8 - 1995.5 (last release)
-
-
-* **Slackware** 1993.7.16
+* **[Slackware](https://distroware.gitlab.io/os/Linux/s/slackware)** 1993.7.16
 
   Originally based on Softlanding Linux System, is the oldest distribution being maintained
 
 
-* **Debian** 1993.8.16
+* **[Debian](https://distroware.gitlab.io/os/Linux/d/debian)** 1993.8.16
 
 
-  * **Ubuntu** 2004.10.20
+  * **[Ubuntu](https://distroware.gitlab.io/os/Linux/u/ubuntu)** 2004.10.20
 
     see below for derivates
 
@@ -31,18 +30,18 @@
     Freeware pretending to be open source
 
 
-* **Gentoo** 1999.12 (previously called Enoch)
+* **[Gentoo](https://distroware.gitlab.io/os/Linux/g/gentoo)** 1999.12 (previously called Enoch)
 
 
-* **OpenWRT** 2001.6.1
+* **[OpenWRT](https://distroware.gitlab.io/os/Linux/o/openwrt)** 2001.6.1
 
 
-* **Arch Linux** 2002.3.11
+* **[Arch Linux](https://distroware.gitlab.io/os/Linux/a/arch-linux)** 2002.3.11
 
 
-  * **Bluestar Linux** 2011.11.10
+  * **[Bluestar Linux](https://distroware.gitlab.io/os/Linux/b/bluestar-linux)** 2011.11.10
 
-    Freeware, dirty builded not signed packages, Unknown Packager, unredestributable software in repository, lack some best practice in packaging
+    Freeware, dirty builded not signed packages, 'Unknown Packager', unredestributable software in repository, lack some best practice in packaging
 
 
   * **Endeavour OS** 15.07.2019
@@ -60,45 +59,45 @@
     Freeware
 
 
-* **Ubuntu** 2004.10.20
+* **[Ubuntu](https://distroware.gitlab.io/os/Linux/u/ubuntu)** 2004.10.20
 
 
-  * **Kubuntu** 2005.4.8
+  * **[Kubuntu](https://distroware.gitlab.io/os/Linux/k/kubuntu)** 2005.4.8
 
 
-  * **Xubuntu** 2006.6.1
+  * **[Xubuntu](https://distroware.gitlab.io/os/Linux/x/xubuntu)** 2006.6.1
 
 
-  * **Linux Mint** 2006.8.27
+  * **[Linux Mint](https://distroware.gitlab.io/os/Linux/l/linux-mint)** 2006.8.27
 
 
-       * **Commodore OS** 2011.11.11 - 2015.06.08
+       * **[Commodore OS](https://distroware.gitlab.io/os/Linux/c/commodore-os)** 2011.11.11 - 2015.06.08
 
          Commodore 64 themed Linux Mint remix
 
 
-  * **Lubuntu** 2009.4.13
+  * **[Lubuntu](https://distroware.gitlab.io/os/Linux/l/lubuntu)** 2009.4.13
 
 
-  * **elementary OS** 2011.3.31
+  * **[elementary OS](https://distroware.gitlab.io/os/Linux/e/elementary-os)** 2011.3.31
 
 
-  * **Pop OS** 2017.06.29
+  * **[Pop OS](https://distroware.gitlab.io/os/Linux/p/pop-os)** 2017.06.29
 
 
-* **Alpine Linux** 2006.5.4
+* **[Alpine Linux](https://distroware.gitlab.io/os/Linux/a/alpine-linux)** 2006.05.4
 
 
-  * **postmarketOS** 2017.5.6
+  * **[postmarketOS](https://distroware.gitlab.io/os/Linux/p/postmarketos)** 2017.05.6
 
 
-* **OpenELEC** 2009.9.6 - 2017.06.3 (last release)
+* **[OpenELEC](https://distroware.gitlab.io/os/Linux/o/openelec)** 2009.09.6 - 2017.06.3 (last release)
 
 
-  * **LibreELEC** 2016.3
+  * **[LibreELEC](https://distroware.gitlab.io/os/Linux/l/libreelec)** 2016.03
 
 
-    * **Lakka** 2015.5
+    * **[Lakka](https://distroware.gitlab.io/os/Linux/l/lakka)** 2015.05
 
       Retrogaming dedicated, powered by Retroarch (XMB front-end)
 
