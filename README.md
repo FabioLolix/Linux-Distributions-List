@@ -2,14 +2,15 @@
 
 ***
 
-* **[MCC Interim Linux](https://distroware.gitlab.io/os/Linux/m/mcc-interim)** 1992.2 - 1996.4.23
+* **[MCC Interim Linux](https://distroware.gitlab.io/os/Linux/m/mcc-interim)** *discontinued* 1992.2 - 1996.4.23
 
+* **[TAMU](https://distroware.gitlab.io/os/Linux/y/tamu)** *discontinued* 1992.5 - 1994.10
 
 * **[SLS](https://distroware.gitlab.io/os/Linux/s/sls)** 1992.6 - 1994.1
 
   Softlanding Linux System, one of the first Linux distribution
 
-* **[Yggdrasil Linux/GNU/X](https://distroware.gitlab.io/os/Linux/y/yggdrasil)** 1992.12.8 - 1995.5 (last release)
+* **[Yggdrasil Linux/GNU/X](https://distroware.gitlab.io/os/Linux/y/yggdrasil)** *discontinued* 1992.12.8 - 1995.5 (last release)
 
 
 * **[Slackware](https://distroware.gitlab.io/os/Linux/s/slackware)** 1993.7.16
@@ -46,7 +47,7 @@
 
   * **Endeavour OS** 15.07.2019
 
-    Amateurish dirty builded packages, lack basics of packaging
+    Dirty builded packages, lack very basics of packaging
 
 
   * **Garuda Linux** 2020.08
@@ -71,7 +72,7 @@
   * **[Linux Mint](https://distroware.gitlab.io/os/Linux/l/linux-mint)** 2006.8.27
 
 
-       * **[Commodore OS](https://distroware.gitlab.io/os/Linux/c/commodore-os)** 2011.11.11 - 2015.06.08
+       * **[Commodore OS](https://distroware.gitlab.io/os/Linux/c/commodore-os)** *discontinued* 2011.11.11 - 2015.06.08
 
          Commodore 64 themed Linux Mint remix
 
@@ -82,7 +83,7 @@
   * **[elementary OS](https://distroware.gitlab.io/os/Linux/e/elementary-os)** 2011.3.31
 
 
-  * **[Pop OS](https://distroware.gitlab.io/os/Linux/p/pop-os)** 2017.06.29
+  * **[Pop!_OS](https://distroware.gitlab.io/os/Linux/p/pop-os)** 2017.06.29
 
 
 * **[Alpine Linux](https://distroware.gitlab.io/os/Linux/a/alpine-linux)** 2006.05.4
@@ -91,7 +92,11 @@
   * **[postmarketOS](https://distroware.gitlab.io/os/Linux/p/postmarketos)** 2017.05.6
 
 
-* **[OpenELEC](https://distroware.gitlab.io/os/Linux/o/openelec)** 2009.09.6 - 2017.06.3 (last release)
+* **[TENS](https://distroware.gitlab.io/os/Linux/t/tens)** *discontinued* 2007.3.21 - 2021.08 (discontinued)
+  Proprietary, free to use. Based on Thinstation according to the Linux distributions timeline, CRUX according to wikipedia.
+
+
+* **[OpenELEC](https://distroware.gitlab.io/os/Linux/o/openelec)** *discontinued* 2009.09.6 - 2017.06.3 (last release)
 
 
   * **[LibreELEC](https://distroware.gitlab.io/os/Linux/l/libreelec)** 2016.03
