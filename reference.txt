@@ -201,7 +201,6 @@
 "N","Pinguy OS","#05a7fb","Ubuntu","2010.9.20",,,"https://distroware.gitlab.io/os/Linux/p/pinguy-os",,,,,,,,,
 "N","Ubuntu GNOME","#0087ed","Ubuntu","2012.10","2017.10.10",,"https://distroware.gitlab.io/os/Linux/u/ubuntu-gnome",,,,,,,,,
 "#N","NodeZero","#121315","Ubuntu","2010.10.6",,,"http://netinfinity.org/",,,,,,,,,
-"N","Bodhi","#5b860a","Ubuntu","2010.11.17",,,"https://distroware.gitlab.io/os/Linux/b/bodhi",,,,,,,,,
 "#N","Blackbuntu","#000","Ubuntu","2010.12.23",,,"http://www.blackbuntu.com/",,,,,,,,,
 "#N","P@xtreme","#000","Ubuntu","2011.1.8","2011.07.13",,"http://pxtreme.hu/",,,,,,,,,
 "#N","iQunix OS","#8866ee","Ubuntu","2011.3.15",,,"http://iqunix.blogspot.ch/",,,,,,,,,

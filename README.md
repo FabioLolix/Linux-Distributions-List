@@ -79,6 +79,9 @@
 
   * **[Lubuntu](https://distroware.gitlab.io/os/Linux/l/lubuntu)** 2009.4.13
 
+  * **[Bodhi](https://distroware.gitlab.io/os/Linux/b/bodhi)** 2010.11.17
+
+    Remix created with a non-public remixing tool, use the Moksha desktop environment; a fork of enlightenment 17
 
   * **[elementary OS](https://distroware.gitlab.io/os/Linux/e/elementary-os)** 2011.3.31
 
