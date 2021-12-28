@@ -74,7 +74,7 @@
 
        * **[Commodore OS](https://distroware.gitlab.io/os/Linux/c/commodore-os)** *discontinued* 2011.11.11 - 2015.06.08
 
-         Commodore 64 themed Linux Mint remix
+          Remix, Commodore 64 themed
 
 
   * **[Lubuntu](https://distroware.gitlab.io/os/Linux/l/lubuntu)** 2009.4.13
@@ -93,6 +93,7 @@
 
 
 * **[TENS](https://distroware.gitlab.io/os/Linux/t/tens)** *discontinued* 2007.3.21 - 2021.08 (discontinued)
+
   Proprietary, free to use. Based on Thinstation according to the Linux distributions timeline, CRUX according to wikipedia.
 
 
