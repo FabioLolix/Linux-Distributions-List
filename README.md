@@ -51,22 +51,22 @@
 
   * **[Bluestar Linux](https://distroware.gitlab.io/os/Linux/b/bluestar-linux)** 2011.11.10
 
-		Freeware, dirty builded not signed packages, 'Unknown Packager', unredestributable software in repository, lack some best practice in packaging
+      Freeware, dirty builded not signed packages, 'Unknown Packager', unredestributable software in repository, lack some best practice in packaging
 
 
   * **Endeavour OS** 2019.07.15
 
-		Dirty builded packages, lack very basics of packaging
+      Dirty builded packages, lack very basics of packaging
 
 
   * **Garuda Linux** 2020.08
 
-		Include unredestributable software in repository
+      Include unredestributable software in repository
 
 
   * **Peux OS** 2021.01.31
 
-		Freeware
+      Freeware
 
 
 * **[Ubuntu](https://distroware.gitlab.io/os/Linux/u/ubuntu)** 2004.10.20
