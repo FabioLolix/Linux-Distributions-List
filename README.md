@@ -2,20 +2,25 @@
 
 ***
 
-* **[MCC Interim Linux](https://distroware.gitlab.io/os/Linux/m/mcc-interim)** *discontinued* 1992.2 - 1996.4.23
+* **[MCC Interim Linux](https://distroware.gitlab.io/os/Linux/m/mcc-interim)** 1992.2 - 1996.4.23
 
-* **[TAMU](https://distroware.gitlab.io/os/Linux/y/tamu)** *discontinued* 1992.5 - 1994.10
+	Discontinued
+
+* **[TAMU](https://distroware.gitlab.io/os/Linux/y/tamu)** 1992.5 - 1994.10
+
+	DIscontinued
 
 * **[SLS](https://distroware.gitlab.io/os/Linux/s/sls)** 1992.6 - 1994.1
 
-  Softlanding Linux System, one of the first Linux distribution
+	Discontinued. Softlanding Linux System
 
-* **[Yggdrasil Linux/GNU/X](https://distroware.gitlab.io/os/Linux/y/yggdrasil)** *discontinued* 1992.12.8 - 1995.5 (last release)
+* **[Yggdrasil Linux/GNU/X](https://distroware.gitlab.io/os/Linux/y/yggdrasil)** 1992.12.8 - 1995.5 (last release)
 
+	Discontinued
 
 * **[Slackware](https://distroware.gitlab.io/os/Linux/s/slackware)** 1993.7.16
 
-  Originally based on Softlanding Linux System, is the oldest distribution being maintained
+	Originally based on Softlanding Linux System, is the oldest distribution being maintained
 
 
 * **[Debian](https://distroware.gitlab.io/os/Linux/d/debian)** 1993.8.16
@@ -23,12 +28,16 @@
 
   * **[Ubuntu](https://distroware.gitlab.io/os/Linux/u/ubuntu)** 2004.10.20
 
-    see below for derivates
+      see below for derivates
 
+
+  * **Slax** 2017.11.16
+
+      Freeware remix, previousky based on Slackware
 
   * **Dekuve** 2021.05.27
 
-    Freeware pretending to be open source
+	  Freeware pretending to be open source
 
 
 * **[Gentoo](https://distroware.gitlab.io/os/Linux/g/gentoo)** 1999.12 (previously called Enoch)
@@ -42,22 +51,22 @@
 
   * **[Bluestar Linux](https://distroware.gitlab.io/os/Linux/b/bluestar-linux)** 2011.11.10
 
-    Freeware, dirty builded not signed packages, 'Unknown Packager', unredestributable software in repository, lack some best practice in packaging
+		Freeware, dirty builded not signed packages, 'Unknown Packager', unredestributable software in repository, lack some best practice in packaging
 
 
-  * **Endeavour OS** 15.07.2019
+  * **Endeavour OS** 2019.07.15
 
-    Dirty builded packages, lack very basics of packaging
+		Dirty builded packages, lack very basics of packaging
 
 
   * **Garuda Linux** 2020.08
 
-    Include unredestributable software in repository
+		Include unredestributable software in repository
 
 
   * **Peux OS** 2021.01.31
 
-    Freeware
+		Freeware
 
 
 * **[Ubuntu](https://distroware.gitlab.io/os/Linux/u/ubuntu)** 2004.10.20
@@ -72,21 +81,27 @@
   * **[Linux Mint](https://distroware.gitlab.io/os/Linux/l/linux-mint)** 2006.8.27
 
 
-       * **[Commodore OS](https://distroware.gitlab.io/os/Linux/c/commodore-os)** *discontinued* 2011.11.11 - 2015.06.08
+       * **[Commodore OS](https://distroware.gitlab.io/os/Linux/c/commodore-os)** 2011.11.11 - 2015.06.08
 
-          Remix, Commodore 64 themed
+           Discontinued, remix, Commodore 64 themed
 
 
   * **[Lubuntu](https://distroware.gitlab.io/os/Linux/l/lubuntu)** 2009.4.13
 
   * **[Bodhi](https://distroware.gitlab.io/os/Linux/b/bodhi)** 2010.11.17
 
-    Remix created with a non-public remixing tool, use the Moksha desktop environment; a fork of enlightenment 17
+      Remix created with a non-public remixing tool, use the Moksha desktop environment; a fork of enlightenment 17
 
   * **[elementary OS](https://distroware.gitlab.io/os/Linux/e/elementary-os)** 2011.3.31
 
 
   * **[Pop!_OS](https://distroware.gitlab.io/os/Linux/p/pop-os)** 2017.06.29
+
+  * **[JingOS]()** 2021.01.31
+
+      Code leechers and liars, partial and sub-par code openess
+
+      Development for the generic x86 suspended after less then a year (2021.12.14)
 
 
 * **[Alpine Linux](https://distroware.gitlab.io/os/Linux/a/alpine-linux)** 2006.05.4
@@ -95,12 +110,14 @@
   * **[postmarketOS](https://distroware.gitlab.io/os/Linux/p/postmarketos)** 2017.05.6
 
 
-* **[TENS](https://distroware.gitlab.io/os/Linux/t/tens)** *discontinued* 2007.3.21 - 2021.08 (discontinued)
+* **[TENS](https://distroware.gitlab.io/os/Linux/t/tens)** 2007.3.21 - 2021.08 (discontinued)
 
-  Proprietary, free to use. Based on Thinstation according to the Linux distributions timeline, CRUX according to wikipedia.
+	Discontinued, proprietary, free to use. Based on Thinstation according to the Linux distributions timeline (confirmed for 1.7.x release), CRUX according to wikipedia.
 
 
-* **[OpenELEC](https://distroware.gitlab.io/os/Linux/o/openelec)** *discontinued* 2009.09.6 - 2017.06.3 (last release)
+* **[OpenELEC](https://distroware.gitlab.io/os/Linux/o/openelec)** 2009.09.6 - 2017.06.3 (last release)
+
+    Discontinued
 
 
   * **[LibreELEC](https://distroware.gitlab.io/os/Linux/l/libreelec)** 2016.03
@@ -108,11 +125,11 @@
 
     * **[Lakka](https://distroware.gitlab.io/os/Linux/l/lakka)** 2015.05
 
-      Retrogaming dedicated, powered by Retroarch (XMB front-end)
+		Retrogaming dedicated, powered by Retroarch (XMB front-end)
 
-      Initially based on OpenELEC, have switched to LibreELEC
+		Initially based on OpenELEC, have switched to LibreELEC
 
 
 * **[4M](https://distroware.gitlab.io/os/Linux/0-9/4m)** 2010.10.10
 
-  Independent freeware
+	Independent freeware
