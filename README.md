@@ -133,3 +133,34 @@
 * **[4M](https://distroware.gitlab.io/os/Linux/0-9/4m)** 2010.10.10
 
 	Independent freeware
+
+
+***
+
+**Arne Exton**
+
+Exton's .deb based distros are remixes created with refracta, have an out of repository kernel and unredestributable programs.
+
+AOSP builds for x86_64 (AndEX) and Raspberry Pi (RaspAnd) include Google Play Store which is against Google ToS and are sold for 9$
+
+
+**Binary Emotions**
+
+Binary Emotions produce several donationware distributions (often with questionable names), public release are limited or very limited in functionality,
+the website indicate that the software is GPL, however there is nothing public aside for 2 projects.
+
+Active distributions are the Raspberry Pi specific 'Raspberry Digital Signage' and 'Raspberry Slideshow' (previously Raspberry Picture Frame Slideshow), 
+the software is said to be GPL however there is no code or build script available. The public release are limited in 
+some functionality, to get unrestricted versions a donation is needed (on DistroWatch are incorrectly listed as free).
+
+The dormant 'LAMPONE PI' and 'Resilient Linux' have seen last activity on June/July 2020, build scripts are on github, the only 2 with public code.
+
+Discontinued distros, no public code available despite indication that software is GPL, 'Instant WebKiosk/ Unrestricted Browsing', 'Raspberry WebKiosk', 'WebXperience OS', 
+'Safe Internet for kids', 'Easy Digital Signage', 'Raspberry Video', 'Raspberry ownCloud', 'UPnP/DLNA media server', 'Raspberry PrintServer', 'Snowden Tribute'.
+
+
+**Ufficio Zero Linux**
+
+SIITE SRLS produce a group of freeware remix created with their in house developed tool 'eggs' (nodejs). 
+Are remixed PCLinuxOS, Linux Mint 20.x, Devuan 4, LMDE4, Devuan 3 and Linux Mint 19.3.
+Ufficio Zero Linux OS is defined as an open source operative system, instead is a group of remixes.
