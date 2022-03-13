@@ -8,7 +8,7 @@
 
 * **[TAMU](https://distroware.gitlab.io/os/Linux/y/tamu)** 1992.5 - 1994.10
 
-	DIscontinued
+	Discontinued
 
 * **[SLS](https://distroware.gitlab.io/os/Linux/s/sls)** 1992.6 - 1994.1
 
@@ -51,17 +51,17 @@
 
   * **[Bluestar Linux](https://distroware.gitlab.io/os/Linux/b/bluestar-linux)** 2011.11.10
 
-      Freeware, dirty builded not signed packages, 'Unknown Packager', unredestributable software in repository, lack some best practice in packaging
+      Freeware, dirty builded and not signed packages, 'Unknown Packager', unredestributable software in repository, lack some best practice in packaging
 
 
   * **Endeavour OS** 2019.07.15
 
-      Dirty builded packages, lack very basics of packaging
+      Open, dirty builded packages, lack very basics of packaging
 
 
   * **Garuda Linux** 2020.08
 
-      Include unredestributable software in repository
+      Open, include unredestributable software in repository
 
 
   * **Peux OS** 2021.01.31
@@ -88,14 +88,17 @@
 
   * **[Lubuntu](https://distroware.gitlab.io/os/Linux/l/lubuntu)** 2009.4.13
 
+
   * **[Bodhi](https://distroware.gitlab.io/os/Linux/b/bodhi)** 2010.11.17
 
       Remix created with a non-public remixing tool, use the Moksha desktop environment; a fork of enlightenment 17
+
 
   * **[elementary OS](https://distroware.gitlab.io/os/Linux/e/elementary-os)** 2011.3.31
 
 
   * **[Pop!_OS](https://distroware.gitlab.io/os/Linux/p/pop-os)** 2017.06.29
+
 
   * **[JingOS]()** 2021.01.31
 
@@ -117,13 +120,19 @@
 
 * **[OpenELEC](https://distroware.gitlab.io/os/Linux/o/openelec)** 2009.09.6 - 2017.06.3 (last release)
 
-    Discontinued
+    Discontinued, open
 
 
   * **[LibreELEC](https://distroware.gitlab.io/os/Linux/l/libreelec)** 2016.03
 
+        Open, originally forked from OpenELEC; don't rely on its parent for updates and development
+
+        Mediacenter dedicated, powered by KODI
+
 
     * **[Lakka](https://distroware.gitlab.io/os/Linux/l/lakka)** 2015.05
+
+        Open
 
 		Retrogaming dedicated, powered by Retroarch (XMB front-end)
 
