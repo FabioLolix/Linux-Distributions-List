@@ -125,9 +125,9 @@
 
   * **[LibreELEC](https://distroware.gitlab.io/os/Linux/l/libreelec)** 2016.03
 
-        Open, originally forked from OpenELEC; don't rely on its parent for updates and development
+      Open, originally forked from OpenELEC; don't rely on its parent for updates and development
 
-        Mediacenter dedicated, powered by KODI
+      Mediacenter dedicated, powered by KODI
 
 
     * **[Lakka](https://distroware.gitlab.io/os/Linux/l/lakka)** 2015.05
