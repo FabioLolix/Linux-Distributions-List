@@ -115,12 +115,14 @@
 
 * **[TENS](https://distroware.gitlab.io/os/Linux/t/tens)** 2007.3.21 - 2021.08 (discontinued)
 
-	Discontinued, proprietary, free to use. Based on Thinstation according to the Linux distributions timeline (confirmed for 1.7.x release), CRUX according to wikipedia.
+	Discontinued, proprietary, free to use. Based on Thinstation according to the Linux distributions timeline (confirmed for 1.7.x release), CRUX according to wikipedia (note: Thinstation is based on CRUX since at least v5.0 on 2012.02.10).
 
 
 * **[OpenELEC](https://distroware.gitlab.io/os/Linux/o/openelec)** 2009.09.6 - 2017.06.3 (last release)
 
     Discontinued, open
+
+    Mediacenter dedicated, powered by KODI
 
 
   * **[LibreELEC](https://distroware.gitlab.io/os/Linux/l/libreelec)** 2016.03
